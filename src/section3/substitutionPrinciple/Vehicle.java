@@ -1,6 +1,6 @@
 package section3.substitutionPrinciple;
 
-public class Vehicle {
+public abstract class Vehicle {
 
 	abstract int getSpeed();
 	abstract int getCubicCapacity();
