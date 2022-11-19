@@ -14,33 +14,3 @@ public abstract class Vehicle {
 	}
 }
 
-public class Car extends Vehicle {
-	int getSpeed() {
-		
-	}
-	int getCubicCapacity() {
-		
-	}
-	
-	boolean isHatchBack() {
-		
-	}
-	
-	
-}
-
-
-public class Bus extends Vehicle {
-	int getSpeed() {
-		
-	}
-	
-	int getCubicCapacity() {
-		
-	}
-	
-	String getEmergencyExitLoc() {
-		
-	}
-}
-
